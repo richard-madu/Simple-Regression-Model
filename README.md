@@ -13,7 +13,6 @@ This machine learning project explores the relationship between study hours and 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -28,19 +27,24 @@ Before you begin, ensure you have the following installed:
 
 - Python
 - Jupyter Notebook (optional, for exploring the project interactively)
-
 ### Installation
 
 1. Clone the repository:
-
-```bash
+bash
 git clone https://github.com/your-username/study-hours-test-scores.git
 cd study-hours-test-scores
 
-## Usage 
+### Usage 
 Explore the project files and notebooks to understand the data analysis and model implementation. Run the Jupyter notebooks for an interactive exploration.
 
-## Results 
+### Results 
 Our analysis revealed a positive correlation between study hours and test scores. The linear regression model successfully captures this relationship, allowing for the prediction of test scores based on study hours. The predicted score for a student studying 9.25 hours is approximately 93.7%.
 
-For more details, refer to the Contribution Guidelines.
+### Contributing
+Contributions are welcome! Please read our Contribution Guidelines for details on how to contribute to this project.
+
+
+### Acknowledgments
+Data source: Acknowledge the source of your dataset.
+Scikit-learn: Utilized for implementing the linear regression model.
+
